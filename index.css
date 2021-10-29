@@ -7,13 +7,13 @@ background-repeat: no-repeat, repeat;
 }
 h2 {
     background-color:darkolivegreen;
-    background: rgba(0, 128, 0, 0.1);
+     background: rgba(0, 128, 0, 0.3);
     color: white;
     
 }
 h3{
     background-color:darkolivegreen;
-    background: rgba(0, 128, 0, 0.1);
+     background: rgba(0, 128, 0, 0.3);
     color: white;
 
 }
