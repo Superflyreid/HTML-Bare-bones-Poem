@@ -3,17 +3,16 @@ body {
 background-repeat: no-repeat, repeat;
  background-size: cover;
  background-position: center;
- background-color: none;
+ background-color: darkolivegreen;
+ background: rgba(0, 128, 0, 0.3);
 }
 h2 {
-    background-color:darkolivegreen;
-     background: rgba(0, 128, 0, 0.3);
+    background-color:none;
     color: white;
     
 }
 h3{
-    background-color:darkolivegreen;
-     background: rgba(0, 128, 0, 0.3);
+    background-color:none;
     color: white;
 
 }
