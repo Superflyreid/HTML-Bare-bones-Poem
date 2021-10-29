@@ -1,15 +1,20 @@
 body {
  background-image: url("https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
 background-repeat: no-repeat, repeat;
- background-size: cover;
+ background-size: cover; 
  background-position: center;
  background-attachment: fixed;
+ background-color: none;
+}
+a: link;{color: palegreen;
+}
+a: visited{color: rosybrown;
 }
  h1{
+    display: table;
+    margin: 0px auto 0px auto; 
+    padding:5px;background: rgba(0, 0, 0, 0.4);color:#ffffff;
 
-    background-color: black;
-     background-size: 500px 50px;
-     background-position: center;
  }   
 h2 {
     color: white;
@@ -19,4 +24,35 @@ h3{
     color: white;
 
 }
+.light-mode {
+    background-color: white;
+    color: black;}
 }
+@media only screen and (min-width: 400px) {
+    body {
+        background: black;
+        align-content: center;
+    }
+    section {
+        padding: 4rem;
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    body {
+        background: black;
+        align-content: center;
+    }
+    section {
+        height: 150px;
+    }
+    h2 {
+        font-size: 50pt;
+    }
+    h3
+    {
+        font-size: 30pt;    
+    }
+    a:link {
+        font-size: 30pt;        
+    }
