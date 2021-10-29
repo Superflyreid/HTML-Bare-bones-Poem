@@ -4,9 +4,7 @@ background-repeat: no-repeat, repeat;
  background-size: cover;
  background-position: center;
 }
- h1{
-    div {
-    
+ h1{ 
    background-color: black;
     background-size:100% 0%;
 }
