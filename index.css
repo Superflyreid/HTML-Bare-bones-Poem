@@ -10,21 +10,21 @@
     background-color: black;
     color: ghostwhite;
 }
-
-   h1 {
+<h1>The background-image Property</h1>
+   <h2> {
     font-family: serif;
     font-weight: normal;
     color: ghostwhite;
     font-size:50pt;
-    text-align: center;
+    text-align: center;</h2>
 }
 
-   h2 {
+   <h3> {
     font-family: serif;
     font-weight: normal;
     color: ghostwhite;
     font-size:30pt;
-    text-align: center;
+    text-align: center;</h3>
 }
 
    section {
