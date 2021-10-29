@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8">	
 <center>	
-<title>Barebones</title>
+<title>The Road Not Taken</title>
 </head>
-<meta charset="utf-8">
 <p style="font-family:Helvetica; color:ghostwhite; font-size: 35px;">
 <b>The Road Not Taken<br> 
 <b>by Robert Frost</b><br/></p>
