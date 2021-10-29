@@ -8,13 +8,13 @@ background-repeat: no-repeat, repeat;
 h1 {
 }
 h2 {
-     background: rgb(0, 0, 0);
+     background: rgb(0, 0, 0, 0.3);
     background-color:black;
     color: white;
     
 }
 h3{
-    background: rgb(0, 0, 0);
+    background: rgb(0, 0, 0, 0.3);
     background-color:black;
     color: white;
 
