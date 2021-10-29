@@ -8,5 +8,11 @@ background-repeat: no-repeat, repeat;
 h2 {
     background-color:darkolivegreen;
     color: white;
+    opacity: 0.3;
+}
+h3{
+    background-color:darkolivegreen;
+    color: white;
+    opacity: 0.3;
 }
 }
