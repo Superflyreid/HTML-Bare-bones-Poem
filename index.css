@@ -1,7 +1,8 @@
    body {
-   	background=https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg
-      height: 100%;
+    background-image: url(https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg);
+ background-color: darkolivegreen;
 }
+
 
 }
 
@@ -64,7 +65,7 @@
 
 @media only screen and (min-width: 400px) {
 	body {
-		background: https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg;
+		background: darkolivegreen;
 		align-content: center;
 	}
 	section {
@@ -74,7 +75,7 @@
 
 @media only screen and (max-width: 1080px) {
 	body {
-		background: https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg;
+		background: darkolivegreen;
 		align-content: center;
 	}
 	section {
