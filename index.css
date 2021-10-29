@@ -6,9 +6,6 @@ background-repeat: no-repeat, repeat;
  background-attachment: fixed;
  background-color: none;
  
- .light-mode {
-  background-color: white;
- color: black;}
 }
 a: link;{color: palegreen;
 }
