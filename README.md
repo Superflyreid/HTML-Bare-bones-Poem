@@ -36,7 +36,7 @@ And that has made all the difference.</p>
 </h2>
 <h3>
 <div class="wrapper">
-<img src="https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg"<br> 
+<img src="https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg"><br> 
 <a href="https://www.biography.com/writer/robert-frost">Robert Frost Biography</a>
 </p>
 </h3>
