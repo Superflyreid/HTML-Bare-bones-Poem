@@ -3,11 +3,10 @@ body {
 background-repeat: no-repeat, repeat;
  background-size: cover;
  background-position: center;
- background-color: none;
-}
-h1 {
      background-color: black;
  background: rgba(0, 0, 0, 0.3);
+}
+h1 {
 }
 h2 {
     background-color:none;
