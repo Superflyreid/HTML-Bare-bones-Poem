@@ -1,0 +1,94 @@
+   body {
+    background-color: darkolivegreen;
+}
+
+   .light-mode {
+    background-color: darkgreen;
+    color: ghostwhite;
+}
+   .dark-mode {
+    background-color: darkgreen;
+    color: ghostwhite;
+}
+
+   h1 {
+    font-family: serif;
+    font-weight: normal;
+    color: ghostwhite;
+    font-size:50pt;
+    text-align: center;
+}
+
+   h2 {
+    font-family: serif;
+    font-weight: normal;
+    color: ghostwhite;
+    font-size:20pt;
+    text-align: center;
+}
+
+   section {
+    text-align: center;
+    object-fit: contain;
+    background-color:darkolivegreen;
+    padding: 4rem;
+    color: palegoldenrod;
+    font-family: serif;
+    font-weight: bold;
+}
+
+   a:link {
+    color: green;
+    text-align: right;
+}
+
+   a:visited {
+    color:brown;
+}
+
+   .poem {
+    background-color: darkolivegreen;
+    object-fit: contain;
+    font-family: serif;
+    color:ghostwhite;
+    font-size:20pt;
+    text-align: center;
+    padding: 2rem;
+}
+
+   img {
+     width:35%;
+     height:35%;
+     object-fit: contain;
+     text-align: center;
+}
+
+@media only screen and (min-width: 400px) {
+	body {
+		background: darkorchid;
+		align-content: center;
+	}
+	section {
+		padding: 4rem;
+	}
+}
+
+@media only screen and (max-width: 1080px) {
+	body {
+		background: navy;
+		align-content: center;
+	}
+	section {
+		height: 150px;
+	}
+	h1 {
+		font-size: 45pt;
+	}
+	h2
+	{
+		font-size: 28pt;	
+	}
+	a:link {
+		font-size: 12pt;		
+	}
+}
