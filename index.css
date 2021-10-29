@@ -1,10 +1,9 @@
 body {
-  background-image: url("https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg");
+ <-- background-image: url("https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg");-->
 background-repeat: no-repeat, repeat;
  background-size: cover;
  background-position: center;
-     background-color: black;
- background: rgba(0, 0, 0, 0.3);
+ background-color: black;
 }
 h1 {
 }
