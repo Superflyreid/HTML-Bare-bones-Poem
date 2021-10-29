@@ -1,4 +1,15 @@
 body {
+ {
+  padding: 25px;
+  background-color: black;
+  color: white;
+  font-size: 25px;
+}
+
+.light-mode {
+  background-color: white;
+ color: black;}
+ 
  background-image: url("https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
 background-repeat: no-repeat, repeat;
  background-size: cover; 
