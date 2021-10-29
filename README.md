@@ -36,7 +36,7 @@ And that has made all the difference.</p>
 </h2>
 <h3>
 <div class="wrapper">
-<img src=https://cdn.britannica.com/77/11677-050-42940CFD/Robert-Frost-1954.jpg><br>
+<img src=https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTk0MTY5OTI0NjU4Mjk4/gettyimages-82587359.jpg><br>
 <a href="https://www.biography.com/writer/robert-frost">Robert Frost Biography</a>
 </p>
 </h3>
