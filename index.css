@@ -4,12 +4,9 @@ background-repeat: no-repeat, repeat;
  background-size: cover;
  background-position: center;
 }
- h1{ 
-   background-color: black;
-    background-size:50% 50%;
-}
+ div{
     background-color: black;
-
+    background-size:50% 50%;
  }   
 h2 {
     color: white;
