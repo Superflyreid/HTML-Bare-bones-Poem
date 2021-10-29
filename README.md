@@ -4,7 +4,7 @@
 <meta charset="utf-8">	
 <center>	
 <h1><b>The Road Not Taken<br> 
-<b>by Robert Frost</b><br/></p></h1><
+<b>by Robert Frost</b><br/></p></h1>
 </p>
 </p>
 <body>
