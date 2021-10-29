@@ -36,7 +36,7 @@ And that has made all the difference.</p>
 </h2>
 <h3>
 <div class="wrapper">
-<img src="https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg"/><br>
+<img src=https://cdn.britannica.com/77/11677-050-42940CFD/Robert-Frost-1954.jpg/><br>
 <a href="https://www.biography.com/writer/robert-frost">Robert Frost Biography</a>
 </p>
 </h3>
