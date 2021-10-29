@@ -1,11 +1,10 @@
    body {
     background-image: url(https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg);
- background-color: darkolivegreen;
+ background-color: none;
 }
 
 
 }
-
    .dark-mode {
     background-color: black;
     color: ghostwhite;
