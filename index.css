@@ -2,12 +2,8 @@
     background-color: darkolivegreen;
 }
 
-   .light-mode {
-    background-color: darkgreen;
-    color: ghostwhite;
-}
    .dark-mode {
-    background-color: darkgreen;
+    background-color: black;
     color: ghostwhite;
 }
 
@@ -32,7 +28,7 @@
     object-fit: contain;
     background-color:darkolivegreen;
     padding: 4rem;
-    color: palegoldenrod;
+    color: ghostwhite;
     font-family: serif;
     font-weight: bold;
 }
@@ -65,7 +61,7 @@
 
 @media only screen and (min-width: 400px) {
 	body {
-		background: darkorchid;
+		background: darkolivegreen;
 		align-content: center;
 	}
 	section {
@@ -75,7 +71,7 @@
 
 @media only screen and (max-width: 1080px) {
 	body {
-		background: navy;
+		background: darkolivegreen;
 		align-content: center;
 	}
 	section {
@@ -91,4 +87,5 @@
 	a:link {
 		font-size: 12pt;		
 	}
+}
 }
