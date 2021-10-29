@@ -3,11 +3,6 @@
 <head>
 <meta charset="utf-8">	
 <center>	
-<title><p style="font-family:Helvetica; color:ghostwhite; font-size: 35px;">
-<b>The Road Not Taken<br> 
-<b>by Robert Frost</b><br/></p></title>
-</head>
-<p style="font-family:Helvetica; color:ghostwhite; font-size: 35px;">
 <b>The Road Not Taken<br> 
 <b>by Robert Frost</b><br/></p>
 </p>
@@ -48,10 +43,6 @@ And that has made all the difference.</p>
 
 </body>
 
-
-
-
-</html>
 
 
 
