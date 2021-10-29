@@ -4,9 +4,14 @@ background-repeat: no-repeat, repeat;
  background-size: cover;
  background-position: center;
 }
- div{
-    background-color: black;
-    background-size:50% 50%;
+.overlay {
+  background-color: black;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  position: relative;
+  z-index: 1;
  }   
 h2 {
     color: white;
