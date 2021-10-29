@@ -3,11 +3,12 @@ body {
 background-repeat: no-repeat, repeat;
  background-size: cover;
  background-position: center;
+ background-attachment: fixed;
 }
  h1{
-    
+
     background-color: black;
-     background-size: 300px 100px;
+     background-size: 500px 50px;
  }   
 h2 {
     color: white;
