@@ -14,19 +14,20 @@ a: visited{color: rosybrown;
     display: table;
     margin: 0px auto 0px auto; 
     padding:5px;background: rgba(0, 0, 0, 0.4);color:#ffffff;
-
+  .light-mode {
+    background-color: white;
  }   
 h2 {
     color: white;
+ .light-mode {
+    color: black;}
     
 }
 h3{
     color: white;
-
-}
-.light-mode {
-    background-color: white;
+ .light-mode {
     color: black;}
+
 }
 @media only screen and (min-width: 400px) {
     body {
