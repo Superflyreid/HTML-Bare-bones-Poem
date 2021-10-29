@@ -1,5 +1,14 @@
    body {
-    background ="https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg
+      height: 100%;
+}
+
+.bg {
+  background-image: url("https://s26162.pcdn.co/wp-content/uploads/2016/08/two-roads.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 }
 
    .dark-mode {
@@ -34,12 +43,12 @@
 }
 
    a:link {
-    color: green;
+    color: blue;
     text-align: right;
 }
 
    a:visited {
-    color:brown;
+    color:red;
 }
 
    .poem {
