@@ -5,8 +5,13 @@ background-repeat: no-repeat, repeat;
  background-position: center;
 }
  h1{
+    div {
+    
+   background-color: black;
+    background-size:100% 0%;
+}
     background-color: black;
-     background-size: 300px 100px;
+
  }   
 h2 {
     color: white;
