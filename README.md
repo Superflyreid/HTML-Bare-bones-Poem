@@ -36,11 +36,10 @@ And that has made all the difference.</p>
 </h2>
 <h3>
 <div class="wrapper">
-<img src="https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"><br>
+<img src="https://i.pinimg.com/originals/2b/04/8f/2b048f293775499a2acabecb7480134d.gif"><br> 
 <a href="https://www.biography.com/writer/robert-frost">Robert Frost Biography</a>
 </p>
 </h3>
 </div>
 </body>
-
 
