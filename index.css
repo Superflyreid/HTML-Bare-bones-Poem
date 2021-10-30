@@ -1,10 +1,9 @@
+    <style>
 body {
- background-image: url("<img src="https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">");
-background-repeat: no-repeat, repeat;
- background-size: cover; 
- background-position: center;
- background-attachment: fixed;
- background-color: none;
+background-image:url('https://i.pinimg.com/originals/2b/04/8f/2b048f293775499a2acabecb7480134d.gif'); 
+background-repeat:repeat; }
+}
+  }
  
 }
 a: link;{color: palegreen;
@@ -19,14 +18,18 @@ a: visited{color: rosybrown;
  }   
 h2 {
     color: white;
+    font-size: 50pt;
 
     
 }
 h3{
     color: white;
+    font-size: 30pt;
 
 
 }
+</style>
+
 @media only screen and (min-width: 400px) {
     body {
         background: black;
@@ -55,3 +58,5 @@ h3{
     a:link {
         font-size: 30pt;        
     }
+    </body>
+}
